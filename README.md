@@ -105,7 +105,7 @@ Designed and built a series of line-following robots with progressively complex 
 
 | Role | Company | Location | Year |
 |---|---|---|---|
-| 🔧 Industrial Maintenance Technician | **FESTO** | Tunis, Tunisia | 2024 |
+| 🔧 Industrial Maintenance Technician | **FESTO** | Tunis, Tunisia | 2026 |
 | 🏭 Production & Maintenance Intern | **Kromberg & Schubert** | Béja, Tunisia | July 2025 |
 
 **@ FESTO** — Performed diagnostics and corrective maintenance on industrial automation machines, identifying mechanical and pneumatic faults, and proposing improvements that enhanced machine reliability.
