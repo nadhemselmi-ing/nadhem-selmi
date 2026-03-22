@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nadhem Selmi 👋
+# Hi, I'm Nadhem Selmi 
 
 ### Mechatronics Engineer · AI & Embedded Systems · Autonomous Robotics
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```yaml
 name        : Nadhem Selmi
@@ -26,7 +26,7 @@ currently   : Building a Self-Driving Car as a Final-Year Project (PFA)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ currently   : Building a Self-Driving Car as a Final-Year Project (PFA)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -64,44 +64,44 @@ currently   : Building a Self-Driving Car as a Final-Year Project (PFA)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🚗 Self-Driving Car `STM32F446RE · Raspberry Pi · Python · C/C++ · LiDAR`
+###  Self-Driving Car `STM32F446RE · Raspberry Pi · Python · C/C++ · LiDAR`
 > Final-Year Engineering Project (PFA) — *2024–Present*
 
 Designed and built a fully autonomous vehicle that integrates low-level motor control on an STM32F446RE microcontroller with AI inference on a Raspberry Pi for real-time traffic sign and road anomaly detection. Implemented a complete sensor fusion and decision-making pipeline in Python, combining LiDAR and ultrasonic data for safe autonomous navigation.
 
 ---
 
-### 🔥 Fire Detection AI `Python · PyTorch · YOLOv8 · CUDA`
+###  Fire Detection AI `Python · PyTorch · YOLOv8 · CUDA`
 > *2024*
 
 Trained a custom YOLOv8 model for real-time fire and smoke detection by curating and labeling a diverse dataset to ensure robustness across varied lighting conditions. Leveraged GPU acceleration (NVIDIA RTX 4050) to achieve high detection accuracy with minimal false positives in real-world environments.
 
 ---
 
-### 🤖 Cleaning Self-Driving Robot `Arduino · Raspberry Pi · Python · YOLOv8`
+###  Cleaning Self-Driving Robot `Arduino · Raspberry Pi · Python · YOLOv8`
 > *2024*
 
 Built an autonomous cleaning robot that navigates unstructured environments and identifies waste using a YOLOv8 object detection model running on a Raspberry Pi. Arduino handled real-time motor control and actuation, creating a seamless end-to-end pipeline from visual perception to physical trash collection.
 
 ---
 
-### ☀️ SolarGuard `ESP32-CAM · Python · C/C++ · Multi-Sensor`
+###  SolarGuard `ESP32-CAM · Python · C/C++ · Multi-Sensor`
 > *2024*
 
 Developed a smart predictive maintenance system for solar panels, fusing data from humidity, current, and temperature sensors alongside ESP32-CAM visual inspection to detect panel degradation early. Designed lightweight embedded firmware in C/C++ for continuous real-time monitoring and automated maintenance scheduling.
 
 ---
 
-### ➰ Line Follower Robots `Arduino · C/C++ · PID Control`
+###  Line Follower Robots `Arduino · C/C++ · PID Control`
 > *2023–2024*
 
 Designed and built a series of line-following robots with progressively complex control strategies, culminating in a fully tuned PID controller for smooth, accurate trajectory tracking. Systematically benchmarked bang-bang, proportional, and full PID approaches to develop a deep, hands-on understanding of control system theory.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 | Role | Company | Location | Year |
 |---|---|---|---|
@@ -114,24 +114,24 @@ Designed and built a series of line-following robots with progressively complex 
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Period |
 |---|---|---|
-| 🎓 Cycle Ingénieur – Mécatronique | ENICarthage, Charguia II | Sep. 2024 – Present |
-| 📝 Concours National – Section Technologie | Tunis (Admitted) | June 2024 |
+|  Cycle Ingénieur – Mécatronique | ENICarthage, Charguia II | Sep. 2024 – Present |
+|  Concours National – Section Technologie | Tunis (Admitted) | June 2024 |
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/nadhem-selmi3603](https://www.linkedin.com/in/nadhem-selmi3603) |
-| 📧 Email | [nadhem.selmi@enicar.ucar.tn](mailto:nadhem.selmi@enicar.ucar.tn) |
-| 🐙 GitHub | [github.com/nadhem-selmi](https://github.com/nadhemselmi-ing) |
+|  LinkedIn | [linkedin.com/in/nadhem-selmi3603](https://www.linkedin.com/in/nadhem-selmi3603) |
+|  Email | [nadhem.selmi@enicar.ucar.tn](mailto:nadhem.selmi@enicar.ucar.tn) |
+|  GitHub | [github.com/nadhem-selmi](https://github.com/nadhemselmi-ing) |
 
 </div>
 
