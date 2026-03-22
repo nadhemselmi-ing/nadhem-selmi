@@ -67,35 +67,35 @@ currently   : Building a Self-Driving Car as a Final-Year Project (PFA)
 ##  Featured Projects
 
 ###  Self-Driving Car `STM32F446RE · Raspberry Pi · Python · C/C++ · LiDAR`
-> Final-Year Engineering Project (PFA) — *2024–Present*
+> Final-Year Engineering Project (PFA) — *feb 2026–Present*
 
 Designed and built a fully autonomous vehicle that integrates low-level motor control on an STM32F446RE microcontroller with AI inference on a Raspberry Pi for real-time traffic sign and road anomaly detection. Implemented a complete sensor fusion and decision-making pipeline in Python, combining LiDAR and ultrasonic data for safe autonomous navigation.
 
 ---
 
 ###  Fire Detection AI `Python · PyTorch · YOLOv8 · CUDA`
-> *2024*
+> *2026*
 
 Trained a custom YOLOv8 model for real-time fire and smoke detection by curating and labeling a diverse dataset to ensure robustness across varied lighting conditions. Leveraged GPU acceleration (NVIDIA RTX 4050) to achieve high detection accuracy with minimal false positives in real-world environments.
 
 ---
 
 ###  Cleaning Self-Driving Robot `Arduino · Raspberry Pi · Python · YOLOv8`
-> *2024*
+> *2025*
 
 Built an autonomous cleaning robot that navigates unstructured environments and identifies waste using a YOLOv8 object detection model running on a Raspberry Pi. Arduino handled real-time motor control and actuation, creating a seamless end-to-end pipeline from visual perception to physical trash collection.
 
 ---
 
 ###  SolarGuard `ESP32-CAM · Python · C/C++ · Multi-Sensor`
-> *2024*
+> *2025*
 
 Developed a smart predictive maintenance system for solar panels, fusing data from humidity, current, and temperature sensors alongside ESP32-CAM visual inspection to detect panel degradation early. Designed lightweight embedded firmware in C/C++ for continuous real-time monitoring and automated maintenance scheduling.
 
 ---
 
 ###  Line Follower Robots `Arduino · C/C++ · PID Control`
-> *2023–2024*
+> *2024–2026*
 
 Designed and built a series of line-following robots with progressively complex control strategies, culminating in a fully tuned PID controller for smooth, accurate trajectory tracking. Systematically benchmarked bang-bang, proportional, and full PID approaches to develop a deep, hands-on understanding of control system theory.
 
